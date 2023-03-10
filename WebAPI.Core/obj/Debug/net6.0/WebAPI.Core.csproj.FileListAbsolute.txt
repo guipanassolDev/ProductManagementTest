@@ -1,0 +1,15 @@
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\bin\Debug\net6.0\WebAPI.Core.deps.json
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\bin\Debug\net6.0\WebAPI.Core.dll
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\bin\Debug\net6.0\WebAPI.Core.pdb
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.AssemblyInfo.cs
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.dll
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\refint\WebAPI.Core.dll
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.pdb
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\ref\WebAPI.Core.dll
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\bin\Debug\net6.0\ProductManagement.MongoDatabase.dll
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\bin\Debug\net6.0\ProductManagement.MongoDatabase.pdb
+C:\Users\guilherme.panassol\source\repos\ProductManagement\WebAPI.Core\obj\Debug\net6.0\WebAPI.Core.csproj.CopyComplete
